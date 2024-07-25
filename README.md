@@ -45,7 +45,7 @@ Service (GDS). Working mainly with Node.js in a microservice architecture.
 Bachelors of Science (Hons) 2.2 in Computer Games Technology 09/2001 - 05/2005
 University of Abertay Dundee, Bell St, Dundee, DD1 1HG
 
-### Certifications
+## Certifications
 
 AWS Certified Cloud Practitioner: Issued Jan 2021 - Expires Jan 2025
 Amazon Web Services
