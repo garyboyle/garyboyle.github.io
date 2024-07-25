@@ -8,6 +8,8 @@ and timely solutions that satisfy user needs.
 
 ## Work Experience
 
+Below is a selection of my recent engagements.  For a full list check out my [LinkedIn profile](linkedin.com/in/gary-boyle-4064831b).
+
 ### Full Stack Developer - Fidelity Investments - Mar 2021 - Jun 2024
 
 Joined Fidelity Investment’s Software Engineering Centre of Excellence. Worked as part of a
@@ -47,14 +49,11 @@ University of Abertay Dundee, Bell St, Dundee, DD1 1HG
 
 ## Certifications
 
-AWS Certified Cloud Practitioner: Issued Jan 2021 - Expires Jan 2025
-Amazon Web Services
+* AWS Certified Cloud Practitioner: Issued Jan 2021 - Expires Jan 2025
 
-AWS Certified Developer - Associate: Issued Jan 2022 - Expires Jan 2025
-Amazon Web Services
+* AWS Certified Developer - Associate: Issued Jan 2022 - Expires Jan 2025
 
-Jenkins Essentials: Issued Sep 2021
-CloudBees, Inc.
+* Jenkins Essentials: Issued Sep 2021
 
-Graph Developer - Associate: Issued Feb 2023
-Apollo GraphQL
+* Graph Developer - Associate: Issued Feb 2023
+
