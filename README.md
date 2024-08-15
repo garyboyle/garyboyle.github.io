@@ -6,7 +6,15 @@ Centred Design philosophy. Producing work that adheres to standards and procedur
 accessible, performant, and secure. Collaborating with team members to deliver valuable
 and timely solutions that satisfy user needs.
 
-## Work Experience
+## Skills
+**Frontend:** HTML, CSS, JavaScript/TypeScript, Angular, React, NgRx, NextJS, KnockoutJS, D3.js, jQuery
+**Backend:** Node.js, Express, REST API, GraphQL API, ColdFusion
+**Database:** Postgres, Prisma, Hibernate ORM, Oracle, PL/SQL, MSSQL
+**Cloud:** AWS, CFT, Aurora, ECS, Lambda, API Gateway, Kubernetes, S3, Route53
+**Testing:** Jest, Sinon, Chai, Mocha, Cypress
+**Other:** Jenkins CI/CD, OAuth 2.0, Docker, Git Flow, GitOps, OOP, TDD, Scrum, Kanban
+
+## Experience
 
 Below is a selection of my recent engagements.  For a full list check out my [LinkedIn profile](linkedin.com/in/gary-boyle-4064831b).
 
