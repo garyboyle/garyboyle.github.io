@@ -7,12 +7,12 @@ accessible, performant, and secure. Collaborating with team members to deliver v
 and timely solutions that satisfy user needs.
 
 ## Skills
-**Frontend:** HTML, CSS, JavaScript/TypeScript, Angular, React, NgRx, NextJS, KnockoutJS, D3.js, jQuery
-**Backend:** Node.js, Express, REST API, GraphQL API, ColdFusion
-**Database:** Postgres, Prisma, Hibernate ORM, Oracle, PL/SQL, MSSQL
-**Cloud:** AWS, CFT, Aurora, ECS, Lambda, API Gateway, Kubernetes, S3, Route53
-**Testing:** Jest, Sinon, Chai, Mocha, Cypress
-**Other:** Jenkins CI/CD, OAuth 2.0, Docker, Git Flow, GitOps, OOP, TDD, Scrum, Kanban
+- **Frontend:** HTML, CSS, JavaScript/TypeScript, Angular, React, NgRx, NextJS, KnockoutJS, D3.js, jQuery
+- **Backend:** Node.js, Express, REST API, GraphQL API, ColdFusion
+- **Database:** Postgres, Prisma, Hibernate ORM, Oracle, PL/SQL, MSSQL
+- **Cloud:** AWS, CFT, Aurora, ECS, Lambda, API Gateway, Kubernetes, S3, Route53
+- **Testing:** Jest, Sinon, Chai, Mocha, Cypress
+- **Other:** Jenkins CI/CD, OAuth 2.0, Docker, Git Flow, GitOps, OOP, TDD, Scrum, Kanban
 
 ## Experience
 
