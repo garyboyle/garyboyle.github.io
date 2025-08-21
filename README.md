@@ -18,6 +18,20 @@ and timely solutions that satisfy user needs.
 
 Below is a selection of my recent engagements.  For a full list check out my [LinkedIn profile](linkedin.com/in/gary-boyle-4064831b).
 
+### Senior Software Engineer - Manakau Ltd - Sep 2024 - Present
+Working as a consultant at Manakau Ltd delivering full-stack solutions for a leading FinTech client's analytics
+platform. Architected performance and maintainability improvements to the existing codebase, significantly
+reducing application latency and improving both user experience and developer productivity.
+
+Developed across the full stack using Vue.js, Node.js REST/Federated GraphQL APIs, and PostgreSQL
+database hosted on AWS (Aurora, ECS, Lambda). Built reusable data visualization components with D3.js and
+created widgets for data sharing across multiple internal applications. Collaborated with product teams and
+stakeholders to deliver solutions aligned with business requirements.
+
+Enhanced internal development processes by optimizing CI/CD pipelines and contributing to language server
+improvements for internal tooling, substantially reducing build times and improving developer workflow.
+
+
 ### Full Stack Developer - Fidelity Investments - Mar 2021 - Jun 2024
 
 Joined Fidelity Investment’s Software Engineering Centre of Excellence. Worked as part of a
